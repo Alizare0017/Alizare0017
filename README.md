@@ -1,6 +1,6 @@
 Ali zare
 
-Senior senior python programmer O_O
+Junior python programmer O_O
 still learnin Django :)
 
 <!---
